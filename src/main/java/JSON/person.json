@@ -1,0 +1,14 @@
+{
+  "firstname": "Ivan",
+  "lastname": "Yaksun",
+  "course": {
+    "author": "Yevheniy Tikhonov",
+    "title": "Java Professional",
+    "description": "For everyone"
+  },
+  "personalContacts": [
+    "https://www.instagram.com/craddyy",
+    "https://www.facebook.com/ivancradyy",
+    "https://www.twitter.com/craddy89"
+  ]
+}
